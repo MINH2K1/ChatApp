@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\ChatApp\ChatApp.Data.Ef\bin\Debug\net6.0\ChatApp.Data.Ef.deps.json
+C:\Users\Admin\Desktop\ChatApp\ChatApp.Data.Ef\bin\Debug\net6.0\ChatApp.Data.Ef.runtimeconfig.json
+C:\Users\Admin\Desktop\ChatApp\ChatApp.Data.Ef\bin\Debug\net6.0\ChatApp.Data.Ef.dll
+C:\Users\Admin\Desktop\ChatApp\ChatApp.Data.Ef\bin\Debug\net6.0\ChatApp.Data.Ef.pdb
+C:\Users\Admin\Desktop\ChatApp\ChatApp.Data.Ef\bin\Debug\net6.0\ChatApp.Data.dll
+C:\Users\Admin\Desktop\ChatApp\ChatApp.Data.Ef\bin\Debug\net6.0\ChatApp.Data.pdb
+C:\Users\Admin\Desktop\ChatApp\ChatApp.Data.Ef\obj\Debug\net6.0\ChatApp.Data.Ef.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ChatApp\ChatApp.Data.Ef\obj\Debug\net6.0\ChatApp.Data.Ef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ChatApp\ChatApp.Data.Ef\obj\Debug\net6.0\ChatApp.Data.Ef.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ChatApp\ChatApp.Data.Ef\obj\Debug\net6.0\ChatApp.Data.Ef.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ChatApp\ChatApp.Data.Ef\obj\Debug\net6.0\ChatApp.Data.Ef.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ChatApp\ChatApp.Data.Ef\obj\Debug\net6.0\ChatApp.Data.Ef.csproj.CopyComplete
+C:\Users\Admin\Desktop\ChatApp\ChatApp.Data.Ef\obj\Debug\net6.0\ChatApp.Data.Ef.dll
+C:\Users\Admin\Desktop\ChatApp\ChatApp.Data.Ef\obj\Debug\net6.0\refint\ChatApp.Data.Ef.dll
+C:\Users\Admin\Desktop\ChatApp\ChatApp.Data.Ef\obj\Debug\net6.0\ChatApp.Data.Ef.pdb
+C:\Users\Admin\Desktop\ChatApp\ChatApp.Data.Ef\obj\Debug\net6.0\ChatApp.Data.Ef.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ChatApp\ChatApp.Data.Ef\obj\Debug\net6.0\ref\ChatApp.Data.Ef.dll

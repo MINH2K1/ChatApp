@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\ChatApp\ChatApp.Infastructure\bin\Debug\net6.0\ChatApp.Infastructure.deps.json
+C:\Users\Admin\Desktop\ChatApp\ChatApp.Infastructure\bin\Debug\net6.0\ChatApp.Infastructure.dll
+C:\Users\Admin\Desktop\ChatApp\ChatApp.Infastructure\bin\Debug\net6.0\ChatApp.Infastructure.pdb
+C:\Users\Admin\Desktop\ChatApp\ChatApp.Infastructure\obj\Debug\net6.0\ChatApp.Infastructure.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ChatApp\ChatApp.Infastructure\obj\Debug\net6.0\ChatApp.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ChatApp\ChatApp.Infastructure\obj\Debug\net6.0\ChatApp.Infastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ChatApp\ChatApp.Infastructure\obj\Debug\net6.0\ChatApp.Infastructure.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ChatApp\ChatApp.Infastructure\obj\Debug\net6.0\ChatApp.Infastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ChatApp\ChatApp.Infastructure\obj\Debug\net6.0\ChatApp.Infastructure.dll
+C:\Users\Admin\Desktop\ChatApp\ChatApp.Infastructure\obj\Debug\net6.0\refint\ChatApp.Infastructure.dll
+C:\Users\Admin\Desktop\ChatApp\ChatApp.Infastructure\obj\Debug\net6.0\ChatApp.Infastructure.pdb
+C:\Users\Admin\Desktop\ChatApp\ChatApp.Infastructure\obj\Debug\net6.0\ref\ChatApp.Infastructure.dll
