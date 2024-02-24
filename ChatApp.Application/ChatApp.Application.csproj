@@ -1,9 +1,20 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ChatApp.Data.Ef\ChatApp.Data.Ef.csproj" />
+    <ProjectReference Include="..\ChatApp.Data\ChatApp.Data.csproj" />
+    <ProjectReference Include="..\ChatApp.Infastructure\ChatApp.Infastructure.csproj" />
+    <ProjectReference Include="..\ChatApp.Utilities\ChatApp.Utilities.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="8.1.1" />
+  </ItemGroup>
 
 </Project>
